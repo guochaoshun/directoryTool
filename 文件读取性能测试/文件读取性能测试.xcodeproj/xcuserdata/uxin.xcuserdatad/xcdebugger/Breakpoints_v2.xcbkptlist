@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "544D3C51-CC2D-4718-BA26-174609947265"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25A93C52-91B9-4F36-8849-1440BFD15038"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;/CHFileTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "getOriginFileInfoByTotleSize(rootPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C018B3A-ACE4-4C85-B249-1DFA1F140E1C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;/CHFileTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "191"
+            endingLineNumber = "191"
+            landmarkName = "getOriginFileInfoByTotleSize(rootPath:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5C018B3A-ACE4-4C85-B249-1DFA1F140E1C - 77951295f7c3f27b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static &#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileTool.getOriginFileInfoByTotleSize(rootPath: Swift.String) -&gt; Swift.Array&lt;&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileModel&gt;"
+                  moduleName = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uxin/Desktop/%E6%97%A0%E5%90%8D%E9%AB%98%E5%9C%B0/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/CHFileTool.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "3304">
+               </Location>
+               <Location
+                  uuid = "5C018B3A-ACE4-4C85-B249-1DFA1F140E1C - 77951295f7c3f27b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static &#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileTool.getOriginFileInfoByTotleSize(rootPath: Swift.String) -&gt; Swift.Array&lt;&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileModel&gt;"
+                  moduleName = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uxin/Desktop/%E6%97%A0%E5%90%8D%E9%AB%98%E5%9C%B0/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/CHFileTool.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "185"
+                  endingLineNumber = "185"
+                  offsetFromSymbolStart = "2736">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D7842582-6788-406A-92F2-6AC56D211ACF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;/CHFileTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "193"
+            endingLineNumber = "193"
+            landmarkName = "getOriginFileInfoByTotleSize(rootPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65FD4EF0-65E1-44D0-8C52-64FD91820054"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;/CHFileTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "184"
+            endingLineNumber = "184"
+            landmarkName = "getOriginFileInfoByTotleSize(rootPath:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03370AB6-AFBB-47E1-9AE1-376DD90A8BF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;/CHFileTool.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
+            landmarkName = "getOriginFileInfoByTotleSize(rootPath:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03370AB6-AFBB-47E1-9AE1-376DD90A8BF7 - 77951295f7c3f512"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static &#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileTool.getOriginFileInfoByTotleSize(rootPath: Swift.String) -&gt; Swift.Array&lt;&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileModel&gt;"
+                  moduleName = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uxin/Desktop/%E6%97%A0%E5%90%8D%E9%AB%98%E5%9C%B0/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/CHFileTool.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "178"
+                  endingLineNumber = "178"
+                  offsetFromSymbolStart = "2600">
+               </Location>
+               <Location
+                  uuid = "03370AB6-AFBB-47E1-9AE1-376DD90A8BF7 - 77951295f7c3f4ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static &#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileTool.getOriginFileInfoByTotleSize(rootPath: Swift.String) -&gt; Swift.Array&lt;&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileModel&gt;"
+                  moduleName = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uxin/Desktop/%E6%97%A0%E5%90%8D%E9%AB%98%E5%9C%B0/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/CHFileTool.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "2384">
+               </Location>
+               <Location
+                  uuid = "03370AB6-AFBB-47E1-9AE1-376DD90A8BF7 - 77951295f7c3f4ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static &#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileTool.getOriginFileInfoByTotleSize(rootPath: Swift.String) -&gt; Swift.Array&lt;&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileModel&gt;"
+                  moduleName = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uxin/Desktop/%E6%97%A0%E5%90%8D%E9%AB%98%E5%9C%B0/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/CHFileTool.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "2508">
+               </Location>
+               <Location
+                  uuid = "03370AB6-AFBB-47E1-9AE1-376DD90A8BF7 - 77951295f7c3f4ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static &#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileTool.getOriginFileInfoByTotleSize(rootPath: Swift.String) -&gt; Swift.Array&lt;&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileModel&gt;"
+                  moduleName = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uxin/Desktop/%E6%97%A0%E5%90%8D%E9%AB%98%E5%9C%B0/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/CHFileTool.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "2604">
+               </Location>
+               <Location
+                  uuid = "03370AB6-AFBB-47E1-9AE1-376DD90A8BF7 - 77951295f7c3f4ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static &#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileTool.getOriginFileInfoByTotleSize(rootPath: Swift.String) -&gt; Swift.Array&lt;&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;.CHFileModel&gt;"
+                  moduleName = "&#x6587;&#x4ef6;&#x8bfb;&#x53d6;&#x6027;&#x80fd;&#x6d4b;&#x8bd5;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/uxin/Desktop/%E6%97%A0%E5%90%8D%E9%AB%98%E5%9C%B0/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95/CHFileTool.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "2728">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
